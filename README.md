@@ -1,2 +1,2 @@
-# lilylang
-A pseudocode language for generating code in your desired language via prompt engineering.
+# LilyLang
+A pseudocode typesafe language for generating code in your desired language via prompt engineering.
