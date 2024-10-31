@@ -10,10 +10,10 @@ A pseudocode typesafe language for generating code in your desired language via 
 * Copy the prompt below to initialize LilyLang and for the AI to understand its job
 
 ```lilylang
-    all code you see after this promt is in a typesafe language called LilyLang used to transpile into other programming languages. your job will be to read our LilyLang source code and generate typesafe as possible code output in the language we specify. the first line of code will contain a generate keyword and the target language to transpile to. the language has datatypes to ensure type safety. the file extentions for LilyLang are .lily or .ll to save to disk. 
+    all code you see after this prompt is in a typesafe language called LilyLang used to transpile into other programming languages. your job will be to read our LilyLang source code and generate typesafe as possible code output in the language we specify. the first line of code will contain a generate keyword and the target language to transpile to. the language has datatypes to ensure type safety. the file extentions for LilyLang are .lily or .ll to save to disk. 
 ```
 
-* Write code in your desired editor making sure to save it as .lily or .ll extension
+* Write LilyLang code in your desired editor making sure to save it as .lily or .ll extension
 * ctrl+c ctrl+v profit?
 
 ## Pseudocode Language: LilyLang (Strongly Typed with Generate Keyword)
