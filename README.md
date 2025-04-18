@@ -107,4 +107,4 @@ print(result)
 
 ## todo
 
-* add syntax highlighting extention for various editors (cursor / vs code / vscodium main editor)
+* add syntax highlighting extention for various editors (windsurf main editor)
